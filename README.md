@@ -35,6 +35,3 @@ I used a coding agent to upgrade a read-only crawler project into a fully workin
 - **Full live BUY → SELL round-trip verified on 2026-04-06** (min $1 / 5 shares, ~1¢ round-trip spread).
 - One-command CLI flow: `python main.py strategy backtest` / `trade execute --live`.
 
-## Source
-
-https://github.com/CZYTHSS/polytrader
